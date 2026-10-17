@@ -43,4 +43,5 @@ crash.dmp
 *.apk
 *.aab
 *.unitypackage
-*.app
+*.app*.slnx
+.vsconfig
