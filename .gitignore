@@ -1,0 +1,46 @@
+# Pastas geradas pela Unity (Pesadas e locais)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Arquivos do Visual Studio / IDEs
+.vs/
+.vscode/
+.idea/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Metadados dessas pastas ignoradas
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Relatórios de crash
+sysinfo.txt
+crash.dmp
+
+# Builds e pacotes soltos
+*.apk
+*.aab
+*.unitypackage
+*.app
